@@ -1,0 +1,9 @@
+C:/Users/QAIM RAZA KHAN/Documents/PDF_to_AudioBook_App/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/PDF_to_AudioBook_App.dir
+C:/Users/QAIM RAZA KHAN/Documents/PDF_to_AudioBook_App/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/QAIM RAZA KHAN/Documents/PDF_to_AudioBook_App/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/QAIM RAZA KHAN/Documents/PDF_to_AudioBook_App/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/QAIM RAZA KHAN/Documents/PDF_to_AudioBook_App/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/QAIM RAZA KHAN/Documents/PDF_to_AudioBook_App/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/QAIM RAZA KHAN/Documents/PDF_to_AudioBook_App/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/QAIM RAZA KHAN/Documents/PDF_to_AudioBook_App/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/PDF_to_AudioBook_App_autogen_timestamp_deps.dir
+C:/Users/QAIM RAZA KHAN/Documents/PDF_to_AudioBook_App/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/PDF_to_AudioBook_App_autogen.dir

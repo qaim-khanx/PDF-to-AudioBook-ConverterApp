@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7603cde3e4dac9832556.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PDF_to_AudioBook_App",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PDF_to_AudioBook_App::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PDF_to_AudioBook_App-Debug-8c14d9b4786d1b61c83e.json",
+					"name" : "PDF_to_AudioBook_App",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PDF_to_AudioBook_App_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PDF_to_AudioBook_App_autogen-Debug-facd216cdbd7a156f9d5.json",
+					"name" : "PDF_to_AudioBook_App_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PDF_to_AudioBook_App_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PDF_to_AudioBook_App_autogen_timestamp_deps-Debug-c8d6af90bb6e7187f9c6.json",
+					"name" : "PDF_to_AudioBook_App_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/QAIM RAZA KHAN/Documents/PDF_to_AudioBook_App/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/QAIM RAZA KHAN/Documents/PDF_to_AudioBook_App"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
